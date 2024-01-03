@@ -24,7 +24,7 @@
 </ul>
 
 <p>
-  Sou um desenvolvedor empenhado em manter um código limpo e eficiente, sempre com o olhar voltado para a escalabilidade dos projetos.<br>
+  Sou um desenvolvedor empenhado em manter um código limpo e eficiente, sempre com o olhar voltado para a escalabilidade dos projetos.
   Entendo que um bom software não é apenas sobre fazer funcionar, mas sobre criar sistemas que sejam fáceis de manter, adaptar e expandir.<br>
   Priorizo práticas que garantam a clareza do código e a facilidade de implementação, assegurando que as soluções não apenas atendam às necessidades atuais,
   mas também sejam flexíveis para mudanças futuras. 
