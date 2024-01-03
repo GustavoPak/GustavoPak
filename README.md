@@ -67,7 +67,7 @@
   <!-- C# -->
   <img title="C#" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!-- SQL Server -->
-  <img title="SQL Server" alt="SQL Server" height="30" width="30" src="https://camo.githubusercontent.com/0795475ab521318b4426f7f9830c96d246fd15acd98350cf750dfa0bf3b41848/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67">
+  <img title="SQL Server" alt="SQL Server" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <!-- GIT -->
   <img title="GIT" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <!-- HTML -->
