@@ -42,7 +42,7 @@
 <!--Curriculo-->
 <b>Curriculo, clique aqui:</b>
 <br>
-<a href="seu curriculo" 
+<a href="https://www.canva.com/design/DAF4qW-CMWU/hUVbG8BnOYt5OYUqI615iQ/view?utm_content=DAF4qW-CMWU&utm_campaign=designshare&utm_medium=link&utm_source=editor" 
   target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" height="40" width="40" target="_blank"></a>
 <!--End-->
 
