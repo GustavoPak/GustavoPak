@@ -3,19 +3,23 @@
 
 <h4>Um pouco sobre mim:</h4>
 
-<ul>
-  <li>💻 <strong>Tecnologias que tenho conhecimento</strong>:
-    <ul>
-      <li><code>C#</code> e <code>.NET Core</code>;</li>
-      <li><code>SqlServer</code> e <code>MySql</code>;</li>
-      <li><code>HTML</code> e <code>CSS</code>;</li>
-      <li><code>EntityFramework Core</code>;</li>
-      <li><code>ASP.NET Core Web MVC</code> & <code>ASP.NET Core API REST</code>;</li>
-      <li><code>Programação Orientada a Objetos</code>;</li>
-      <li><code>GIT</code>.</li>
-    </ul>
-  </li>
+  <!-- Lista de Tecnologias -->
+  <ul style="margin: 0; padding: 0; list-style: none;">
+    <li>💻 <strong>Tecnologias que tenho conhecimento</strong>:
+      <ul>
+        <li><code>C#</code> e <code>.NET Core</code>;</li>
+        <li><code>SqlServer</code> e <code>MySql</code>;</li>
+        <li><code>HTML</code> e <code>CSS</code>;</li>
+        <li><code>EntityFramework Core</code>;</li>
+        <li><code>ASP.NET Core Web MVC</code> & <code>ASP.NET Core API REST</code>;</li>
+        <li><code>Programação Orientada a Objetos</code>;</li>
+        <li><code>GIT</code>.</li>
+      </ul>
+    </li>
+  </ul>
+
 <br>
+<ul>
   <li>🛠 <strong>Conheço um pouco</strong>:
     <ul>
       <li><code>Design Patterns</code>, <code>Princípios SOLID</code> e <code>Clean Architecture</code></li>
