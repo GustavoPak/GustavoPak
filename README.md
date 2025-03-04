@@ -50,14 +50,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 <!--End-->
-</div>
 
 <!--Curriculo-->
-<b>Curriculo, clique aqui:</b>
-<br>
+<b style="padding-right=2px;">Curriculo: </b>
 <a href="https://www.canva.com/design/DAF4qW-CMWU/0FZwHA365alM8ZmAUY7m9Q/view?utm_content=DAF4qW-CMWU&utm_campaign=designshare&utm_medium=link&utm_source=editor" 
   target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" height="40" width="40" target="_blank"></a>
 <!--End-->
+</div>
 
 <!--Dashboard GitHub -->
 <hr />
