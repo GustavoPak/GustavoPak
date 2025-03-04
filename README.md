@@ -31,13 +31,22 @@
 </p>
 
 <!--Redes-->
+<div style="display: flex; align-items: center; gap: 10px;">
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="60" height="60" />
+
 <!--Gmail-->
-<a href = "mailto:seuEmailaqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavomac201@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a>
 <!--End-->
 
 <!--Linkedin -->
-<a href="https://www.linkedin.com/in/gustavo-macedo-8332041a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-macedo-8332041a2/" target="https://www.linkedin.com/in/gustavodevnet/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 <!--End-->
+</div>
 
 <!--Curriculo-->
 <b>Curriculo, clique aqui:</b>
