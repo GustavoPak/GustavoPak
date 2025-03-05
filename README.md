@@ -1,4 +1,10 @@
-<h3>Olá, Sou o Gustavo 👋</h3>
+<h3>
+  <span>Olá, Sou o Gustavo 👋</span>
+  <span>
+    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="70px" weight="70px">
+  </span>
+</h3>
+
 <p>Estou começando na área de programação, mas já possuo uma base de estudos sólida!</p>
 
 <h4>Um pouco sobre mim:</h4>
@@ -41,7 +47,7 @@
 
 <!--Gmail-->
   <a href = "mailto:gustavomac201@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" >
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 <!--End-->
 
