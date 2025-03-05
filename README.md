@@ -1,13 +1,10 @@
 <h3>
-  <span>Olá, Sou o Gustavo 👋</span>
-  <span>
-    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="50px" weight="50px">
-  </span>
+  Olá, Sou o Gustavo 👋
 </h3>
 
 <p>Estou começando na área de programação, mas já possuo uma base de estudos sólida!</p>
 
-<h4>Um pouco sobre mim:</h4>
+<h4>Um pouco sobre mim: </h4>
 
   <!-- Lista de Tecnologias -->
   <ul style="margin: 0; padding: 0; list-style: none;">
