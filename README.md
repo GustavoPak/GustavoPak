@@ -33,9 +33,3 @@ Sou um desenvolvedor focado em boas práticas e código limpo. Acredito que soft
 [![Currículo](https://img.shields.io/badge/Currículo-visualizar-blue?style=for-the-badge)](https://www.canva.com/design/DAF4qW-CMWU/0FZwHA365alM8ZmAUY7m9Q/view?utm_content=DAF4qW-CMWU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPak&layout=compact&langs_count=7&theme=dracula"/>
-</div>
