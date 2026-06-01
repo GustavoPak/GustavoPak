@@ -6,8 +6,7 @@
 🚀 Estudando Clean Architecture, Design Patterns, Azure e Linux.
 
 <h3>
-  Tecnologias e ferramentas
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnVwYzNsZmxpMGs0YXZqMXJkZXd6aHphdXBrazd1YXplYWRjbmx3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ihH80CKEmNG0Ady5wj/giphy.gif" width="50">
+  Tecnologias e ferramentas 🛠️
 </h3>
 
 #### Tecnologias que domino
