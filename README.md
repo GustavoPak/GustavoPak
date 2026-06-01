@@ -23,7 +23,6 @@
 
 <h3>
   🌱 Sobre mim 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhmeXFhMnVodnZneTF2ZDhnaG1xc2d3Y29jc3VjOTY5aHd3a2t4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DH28A4MRONEoMBDNil/giphy.gif" width="50">
 </h3>
 Sou um desenvolvedor focado em boas práticas e código limpo. Acredito que software de qualidade não é só sobre fazer funcionar, mas também sobre ser sustentável e de fácil manutenção.
 
